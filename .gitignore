@@ -1,0 +1,21 @@
+# Carpetas de Visual Studio
+.vs/
+server/.vs/
+
+# Carpetas de compilación
+x64/
+server/x64/
+Debug/
+Release/
+
+# Archivos binarios
+*.exe
+*.pdb
+*.ilk
+*.ipch
+*.log
+*.tlog
+
+# Otros temporales
+*.obj
+*.pch
